@@ -1,24 +1,21 @@
-# README
+---
+<h1 align="center">
+  🚀 Rails utilizando MySql e criando tudo manualmente
+ 
+</h1>
+<br>
+ 
+## 💻 Neste curso foi utilizado as tecnologias:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- [Ruby](https://www.ruby-lang.org/pt/)
+- [MySql](https://mysql.com/)
 
-Things you may want to cover:
+## 💻 Projeto
 
-* Ruby version
+   - Foi criado um pequeno projeto CRUD, porém fazendo a criação das Rotas, Controlers, Models e Views de forma manual, não utilizando o Scaffold.
 
-* System dependencies
+## 💻 Assuntos
+   - MySql
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ 
+ ----
