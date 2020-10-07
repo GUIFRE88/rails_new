@@ -1,1 +1,9 @@
 <h1>Teste</h1>
+
+<% @produtos.each do |produto| %>
+    <ul>
+        <li>ID:<%= produto.id%></li>
+        <li>NOME:<%= produto.nome%></li>
+        <li>DESCRICAO:<%= produto.descricao%></li>
+    </ul>
+<% end %>

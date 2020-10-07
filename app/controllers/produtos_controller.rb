@@ -1,4 +1,4 @@
-class HomeController < ApplicationController
+class ProdutosController < ApplicationController
 
     # Cria ação index
     def index

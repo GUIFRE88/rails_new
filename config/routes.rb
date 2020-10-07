@@ -4,4 +4,5 @@ Rails.application.routes.draw do
 
   # Cria rota Get para a página sobre
   get "/sobre", to: "sobre#index"
+  get "/produtos", to: "produtos#index"
 end
